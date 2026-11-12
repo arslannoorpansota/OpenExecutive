@@ -9,6 +9,19 @@ From 0.3.0 on, entries are written by release-please from the titles of the
 merged pull requests (`feat` → Added, `fix` → Fixed). The open release PR holds
 the next entry; edit it there before merging if a line needs rewording.
 
+## [0.7.4](https://github.com/SenteLabsAI/OpenExecutive/compare/v0.7.3...v0.7.4) (2026-11-12)
+
+
+### Added
+
+* **orchestrator:** make Approvals the only gate ([#813](https://github.com/SenteLabsAI/OpenExecutive/issues/813)) ([2525224](https://github.com/SenteLabsAI/OpenExecutive/commit/2525224f50ae204f469c0e452fb87da6ba58acfd))
+
+
+### Fixed
+
+* **ui:** keep the sign-in callbackUrl on this site ([#815](https://github.com/SenteLabsAI/OpenExecutive/issues/815)) ([d35a762](https://github.com/SenteLabsAI/OpenExecutive/commit/d35a762ea52560aaf8c94ee52a3d9da09e022682))
+* **ui:** say only what needs you in Home's summary line ([#814](https://github.com/SenteLabsAI/OpenExecutive/issues/814)) ([ac9856f](https://github.com/SenteLabsAI/OpenExecutive/commit/ac9856fe87f77dadf2d919348560c3b4f47e6260))
+
 ## [0.7.3](https://github.com/SenteLabsAI/OpenExecutive/compare/v0.7.2...v0.7.3) (2026-11-12)
 
 
